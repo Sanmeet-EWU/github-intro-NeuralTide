@@ -2,8 +2,8 @@
 ## This is a Heading 2
 ### This is a Heading 3
 
-** I AM BOLD **
-* I am Italic *
+**I AM BOLD**
+*I am Italic*
 
 - List Item 1
 - List Item 2
